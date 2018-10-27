@@ -8,9 +8,9 @@
 # Site settings
 title: "Busca CEP. Santa Inês - MA"
 email: nilsonlinux@gmail.com
-description: "Fazendo um sistema de busca simples no Jekyll usando AngularJS"
+description: "Busque o cep da rua que deseja aqui."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://buscacepsi.github.io" # the base hostname & protocol for your site
+url: "https://buscacepsi.github.io/" # the base hostname & protocol for your site
 twitter_username: nilsonlinux
 github_username:  nilsonlinux
 
