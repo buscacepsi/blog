@@ -9,7 +9,7 @@
 title: "Busca CEP. Santa Inês - MA"
 email: nilsonlinux@gmail.com
 description: "Busque o cep da rua que deseja aqui."
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/busca" # the subpath of your site, e.g. /blog
 url: "http://buscacepsi.github.io" # the base hostname & protocol for your site
 twitter_username: nilsonlinux
 github_username:  nilsonlinux
